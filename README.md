@@ -3,7 +3,7 @@
 
 <img width="400" height="250" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112"/>
 
-- 👩‍💻 At the moment I am studying **Front-End training at "Vai na Web"**
+👩‍💻 At the moment I am in training for Front-End by the company "Vai na Web" and always improving my applications
 
 *<h3 align="left">Check me out:</h3>*
 
@@ -21,7 +21,7 @@
 <img width="110" height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
 <img width="110" height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs"/>
 </div>
-
+  <br></br>
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabella-lessa&show_icons=true&theme=radical&include_all_commits=true&locale=en" alt="isabella-lessa" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=isabella-lessa&show_icons=true&locale=en&layout=compact&theme=radical" alt="isabella-lessa" />
