@@ -5,8 +5,6 @@
 
 - 👩‍💻 At the moment I am studying **Front-End training at "Vai na Web"**
 
-- 📫 Find me here: **isabella.lessa27@gmail.com**
-
 *<h3 align="left">Check me out:</h3>*
 
 <div>
