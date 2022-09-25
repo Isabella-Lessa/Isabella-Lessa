@@ -1,7 +1,7 @@
 <h1> 👩‍💻 Hi there, it's Isa!</h1>
 <h3> A Front-End Developer from Brazil, RJ.</h3>
 
-<img width="400" height="250" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112"/>
+<img width="250" height="150" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112"/>
 
 * 🖥️ Front-End Developer graduated from "Vai na Web" course in 2022 and I aim to study Computer Science in a university. I learned how to develop a graphical user interface of a website using HTML5, CSS3, JavaScript and React.JS.
 * 💻 My focus is in the Front-End area. I always look for learning more, acquiring more knowledge every day in order to improve my sites and projects in general.
