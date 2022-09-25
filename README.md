@@ -1,5 +1,5 @@
-<h1>👩‍💻 Hi there, it's Isa!</h1>
-<h3>A Front-End Developer from Brazil, RJ.</h3>
+<h1> 👩‍💻 Hi there, it's Isa!</h1>
+<h3> A Front-End Developer from Brazil, RJ.</h3>
 
 <img width="400" height="250" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112"/>
 
@@ -7,7 +7,7 @@
 * 💻 My focus is in the Front-End area. I always look for learning more, acquiring more knowledge every day in order to improve my sites and projects in general.
 <br></br>
 
- <i><h4>🔗 Check me out:</h4></i>
+ <i><h4>Check me out:</h4></i>
 
 <div>
 <a href="https://www.linkedin.com/in/isabella-lessa-b6467722a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/><a/>
@@ -15,7 +15,7 @@
 <a href="mailto:isabella.lessa27@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><a/>
 </div>
 
-  <i><h4>🔗 Languages:</h4></i>
+  <i><h4>Languages:</h4></i>
 
 <div>
 <img width="110" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
