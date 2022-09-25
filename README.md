@@ -26,7 +26,7 @@
   
 <br></br>
 
-<div style="display: inline_block">
+<div style="display: inline_block" >
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabella-lessa&show_icons=true&theme=radical&include_all_commits=true&locale=en" alt="isabella-lessa" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=isabella-lessa&show_icons=true&locale=en&layout=compact&theme=radical" alt="isabella-lessa" />
 <div/>
