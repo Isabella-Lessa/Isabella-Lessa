@@ -28,3 +28,5 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabella-lessa&show_icons=true&theme=radical&include_all_commits=true&locale=en" alt="isabella-lessa" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=isabella-lessa&show_icons=true&locale=en&layout=compact&theme=radical" alt="isabella-lessa" />
 <div/>
+
+![Snake animation](https://github.com/isabella-lessa/isabella-lessa/blob/output/github-contribution-grid-snake.svg)
