@@ -26,10 +26,11 @@
 
 ##
 
-<div style="display: flex; justify-content: space-evenly; align-items: center;">
+<div style="display: flex; align-items: center">
   <a href="https://github.com/Isabella-Lessa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabella-lessa&show_icons=true&theme=radical&include_all_commits=true&locale=en" alt="isabella-lessa" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=isabella-lessa&show_icons=true&locale=en&layout=compact&theme=radical" alt="isabella-lessa" />
-</div>
+  <img width="450" height="180em" src="https://github-readme-stats.vercel.app/api?username=isabella-lessa&show_icons=true&theme=radical&include_all_commits=true&locale=en" alt="isabella-lessa" />
+  <img width="450" height="178em" src="https://github-readme-stats.vercel.app/api/top-langs?username=isabella-lessa&show_icons=true&locale=en&layout=compact&theme=radical" alt="isabella-lessa" />
 
 ![Snake animation](https://github.com/isabella-lessa/isabella-lessa/blob/output/github-contribution-grid-snake.svg)
+
+</div>
