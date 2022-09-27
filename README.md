@@ -24,10 +24,12 @@
   <a href="mailto:isabella.lessa27@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><a/>
 </div>
 
+##
+
 <div style="display: flex; align-items: center">
   <a href="https://github.com/Isabella-Lessa">
-  <img width="450" height="180em" src="https://github-readme-stats.vercel.app/api?username=isabella-lessa&show_icons=true&theme=radical&include_all_commits=true&locale=en" alt="isabella-lessa" />
-  <img width="450" height="178em" src="https://github-readme-stats.vercel.app/api/top-langs?username=isabella-lessa&show_icons=true&locale=en&layout=compact&theme=radical" alt="isabella-lessa" />
+  <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api?username=isabella-lessa&show_icons=true&theme=radical&include_all_commits=true&locale=en" alt="isabella-lessa" />
+  <img width="400" height="178em" src="https://github-readme-stats.vercel.app/api/top-langs?username=isabella-lessa&show_icons=true&locale=en&layout=compact&theme=radical" alt="isabella-lessa" />
 
 ![Snake animation](https://github.com/isabella-lessa/isabella-lessa/blob/output/github-contribution-grid-snake.svg)
 
