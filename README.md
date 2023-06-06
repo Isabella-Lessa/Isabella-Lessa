@@ -3,7 +3,10 @@
 
 <img align="center" width="250" height="150" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112"/>
 
-* 🖥️ Front-End Developer graduated from "Vai na Web" course in 2022 and I aim to study Computer Science in a university. I learned how to develop a graphical user interface of a website using HTML5, CSS3, JavaScript and React.JS.
+* 🖥️ Front-End Developer graduated from "Vai na Web" course in 2022 and started my undergraduate Computer Systems Technology degree in 2023 at the Universidade Federal Fluminense (UFF). I learned how to develop a graphical user interface of a website using HTML5, CSS3, JavaScript, React.JS and Vue3. I also have knowledge about Typescript, Jest, Styled-Somponents and I am currently studying SASS, Node.JS and NextJS
+
+* 👩‍💻 At the moment, I work at the company Vai na Web as a Junior Front End Developer, and this is my first position in the programming area. I am currently working on building and developing a component library in Vue3, Typescript, using Jest for the test scenarios, Storybook for the documentation, and SASS as a CSS preprocessor for styling using the BEM methodology.
+
 * 💻 My focus is in the Front-End area. I always look for learning more, acquiring more knowledge every day in order to improve my sites and projects in general.
 
 
