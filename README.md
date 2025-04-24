@@ -1,13 +1,25 @@
 <h1> 👩‍💻 Hi there, it's Isa!</h1>
-<h3> A Front-End Developer from Brazil, RJ.</h3>
+<h3> A Software Developer from Brazil, RJ.</h3>
 
 <img align="center" width="250" height="150" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112"/>
 
-* 🖥️ Front-End Developer graduated from "Vai na Web" course in 2022 and started my undergraduate Computer Systems Technology degree in 2023 at the Universidade Federal Fluminense (UFF). I learned how to develop a graphical user interface of a website using HTML5, CSS3, JavaScript, React.JS and Vue3. I also have knowledge about Typescript, Jest, Styled-Somponents and I am currently studying SASS, Node.JS and NextJS
+Passionate about transforming innovative ideas into effective solutions, my professional life has always been focused on evolving in the world of technology. I have clear and efficient communication skills, seeking excellent teamwork performance and excellent deliveries for the user.
 
-* 👩‍💻 At the moment, I work at the company Vai na Web as a Junior Front End Developer, and this is my first position in the programming area. I am currently working on building and developing a component library in Vue3, Typescript, using Jest for the test scenarios, Storybook for the documentation, and SASS as a CSS preprocessor for styling using the BEM methodology.
+My experience focuses on web development, mainly in the Front-End area, delivering responsive interfaces with a complete and objective flow for the end user.
 
-* 💻 My focus is in the Front-End area. I always look for learning more, acquiring more knowledge every day in order to improve my sites and projects in general.
+I currently work as an outsourced employee for the Digital Bank "BTG Pactual", the largest investment bank in Latin America. I have participated in the development of a component library called "Orquestra", based on a consistent Design System, contributing to standardization and efficiency in the interfaces of the bank's systems.
+
+I currently work on the investment funds team in the Offshore squad, related to BTG's international funds. I develop web systems for Offshore clients, delivering efficient and objective interfaces for clients.
+
+I always seek to engage in new learning and expand and improve my knowledge. I entered the world of programming through the "Vai na Web" program, with a degree in "Web Development - Front End", where I acquired my first knowledge in HTML, CSS, Javascript and React.
+
+Regarding my academic life, I am currently studying Computer Science at Veiga de Almeida University (Higher Education) and Systems Development at Senac (Technical Level).
+
+🖥️ Technologies and Tools:
+
+Design and Development Tools: Skills in design tools such as Figma. Practical experience with agile methodologies, including Design Sprint, Scrum and Kanban.
+
+Development Technologies: Proficient in JavaScript, Vue.js, React, Angular, HTML5, CSS3, SASS, Jest, Storybook. Experience in Back-End languages ​such as Python, C#, PHP, and databases using SQL.
 
 
 <i><h4>Languages:</h4></i>
@@ -17,9 +29,9 @@
   <img width="110" height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
   <img width="110" height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
   <img width="110" height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
+  <img width="110" height="30" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="php"/>
+  <img width="110" height="30" src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1" alt="sql"/>
   <img width="110" height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs"/>
-  <img width="110" height="30" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="reactrouter"/>
-  <img width="110" height="30" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components"/>
   <img width="110" height="30" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="vue"/>
 </div>
 
