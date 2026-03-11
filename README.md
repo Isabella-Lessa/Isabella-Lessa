@@ -7,7 +7,7 @@ Passionate about transforming innovative ideas into effective solutions, my prof
 
 My experience focuses on web development, mainly in the Front-End area, delivering responsive interfaces with a complete and objective flow for the end user.
 
-I currently work as an outsourced employee for the Digital Bank "BTG Pactual", the largest investment bank in Latin America. I have participated in the development of a component library called "Orquestra", based on a consistent Design System, contributing to standardization and efficiency in the interfaces of the bank's systems.
+I currently work for the Digital Bank "BTG Pactual", the largest investment bank in Latin America. I have participated in the development of a component library called "Orquestra", based on a consistent Design System, contributing to standardization and efficiency in the interfaces of the bank's systems.
 
 I currently work on the investment funds team in the Offshore squad, related to BTG's international funds. I develop web systems for Offshore clients, delivering efficient and objective interfaces for clients.
 
